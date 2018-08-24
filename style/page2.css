@@ -1,0 +1,17 @@
+div{
+	background-color: grey;
+	width: 500px;
+	text-align: center;
+	color: yellow;
+	margin-left:50px;
+	border-color:black;
+	
+}
+
+blockquote{
+	color:rgb(100,100,100);
+	margin-left: 50px;
+	text-align:center;
+	width: 500px;
+	background-color: yellow;
+}
